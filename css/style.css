@@ -1,19 +1,48 @@
+body{
+    margin: auto;
+}
 
 .logo_img{
     width: 20%;
-    height: auto;
+    height: 10%;
+    padding: 10px;
+    
 }
+
 .header_section{
     width:100%;
     background-color: blue;
     
 }
+
 .resource{
     
-    right: 10px;
-    top: 10px;
+float:right;
+    
 }
+
 .header_right{
+    
     display: inline;
-    color
+    position: relative;    
+}
+
+.header_right>a{
+    color: black;
+    margin:10px;
+    position: relative;
+
+}
+
+
+.vr{
+    
+    position: relative;
+     display: inline;
+     border: 0.5px solid black;
+    
+}
+
+.material-icons{
+    font-size: 24px;
 }
