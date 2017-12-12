@@ -4,16 +4,16 @@
     height: auto;
 }
 .header_section{
-    width:100%;
+    
     background-color: blue;
     
-}
-.resource{
     
-    right: 10px;
-    top: 10px;
 }
+
 .header_right{
     display: inline;
-    color
+}
+.header_right>a{
+     color:black;
+    
 }
